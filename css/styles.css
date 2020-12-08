@@ -1,0 +1,180 @@
+body{
+  font-family: "Montserrat";
+}
+#title{
+  background-color:   #d2f5e3;
+   color:#fff;
+}
+.text{
+  color:  #fff;
+  font-family: "Ubuntu"
+}
+h1{
+  color: #81b214;
+text-align: center;
+    font-family: "Montserrat";
+     font-size: 4rem;
+     line-height: 1.5;
+       margin: 5% 3% 5% 0;
+}
+h2{
+  color: #81b214;
+  font-family: "Ubuntu";
+  text-align: center;
+  font-size: 3rem;
+  line-height: 1.5rem;
+  padding-bottom: 6%;
+}
+h3{
+  font-family: "Ubuntu";
+  text-align: center;
+  color:  #81b214;
+}
+p{
+  color:black;
+  text-align: center;
+  font-size: 1.3rem;
+    font-family: "Sansita Swashed";
+}
+.lead{
+  color: #fff;
+  font-size: 2rem;
+}
+.see_our_work{
+  font-family:"Montserrat";
+}
+.container-fluid{
+  padding:3% 15% 7%;
+
+}
+/* Navigation bar */
+.navbar{
+  padding:0 0 4.5rem;
+}
+
+.navbar-brand{
+  font-family: "Sansita Swashed";
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+.nav-item{
+  padding: 0 18px;
+}
+.nav-link{
+  font-size: 1.2rem;
+  font-family: "Montserrat-light";
+}
+/* Download Buttons */
+.btn-lg{
+left: 30%;
+font-size: 1.25rem;
+line-height: 1.5;
+border-radius: .3rem;
+}
+.btn-outline-light {
+right:30%;
+    color: #f8f9fa;
+    border-color: #f8f9fa;
+}
+/* Title image */
+.title-image{
+  margin:  0 0 0 40%;
+  width:1100%;
+  transform: rotate(25deg);
+  position:absolute;
+  left: 30%;
+}
+/* Feature */
+#features{
+  padding:7% 15%;
+  background-color: #d2f5e3;
+  position:relative;
+}
+.features_para{
+    color:  #81b214;
+}
+.feature-box{
+  text-align: center;
+  padding:5%;
+}
+.para{
+  font-family: "Sansita Swashed";
+  font-size: 2rem;
+  color:#f6f578;
+}
+.icon{
+  color:#4e8d7c;
+  margin-bottom: 1rem;
+}
+.icon:hover{
+  color: #91d18b;
+}
+/* Testimonials */
+#testimonials{
+  background-color: #98acf8;
+  text-align:center;
+  padding-bottom: 2rem;
+  padding-top: 2rem;
+}
+#testimonials_h{
+  padding-top: 2%;
+  margin-bottom: .5rem;
+    font-weight: 500;
+    line-height: 1.2;
+}
+.dog{
+  text-align: center;
+  width: 50%;
+  border-radius: 100%;
+  margin:20px;
+}
+.carousel-item{
+
+}
+/* Press */
+#press{
+    padding:7% 15%;
+  text-align: center;
+  padding-bottom: 3%;
+  padding-top: 4%;
+  background-color: #d2f5e3;
+}
+.light{
+  color:  #81b214;
+}
+.press-logo{
+  width: 15%;
+  margin: 20px 20px 50px
+}
+.button{
+  text-align: center;
+}
+/* Pricing_section */
+#pricing{
+  background-color: #98acf8;
+  text-align:center;
+  padding: 100px;
+  padding-bottom: 3%;
+  padding-top: 3%;
+}
+.pricing_para{
+    font-family: "Sansita Swashed";
+    padding-top: 10%;
+}
+.card-body{
+    background-color: #b2deec;
+}
+.card-header{
+  background-color:#bedbbb;
+}
+.pricing-column{
+  padding: 3% 2%;
+}
+/* cta */
+#cta{
+  background-color: #d2f5e3;
+    padding:7% 15%;
+}
+#footer{
+    background-color:  #708160;
+}
